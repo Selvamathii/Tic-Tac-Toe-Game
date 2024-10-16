@@ -34,13 +34,4 @@ This project serves as an excellent exercise for understanding loops, conditiona
 - **Python Community**    : For the wealth of resources and support available for learning and development.<br>
 - **Inspiration**         : To all the open-source projects that encouraged me to build this digital clock.<br>
 
-<style>
-        body {
-            background-image: url("D:\img\img22.jpg");
-            background-size: cover; 
-            background-repeat: no-repeat; 
-            background-position: center;
-        }
-</style>
-
-
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/tic-tac-toe-3d-icon-download-in-png-blend-fbx-gltf-file-formats--xs-and-os-video-games-digital-game-pack-sports-icons-6491320.png?f=webp">
