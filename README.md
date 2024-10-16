@@ -34,6 +34,13 @@ This project serves as an excellent exercise for understanding loops, conditiona
 - **Python Community**    : For the wealth of resources and support available for learning and development.<br>
 - **Inspiration**         : To all the open-source projects that encouraged me to build this digital clock.<br>
 
-
+<style>
+        body {
+            background-image: url("D:\img\img22.jpg");
+            background-size: cover; 
+            background-repeat: no-repeat; 
+            background-position: center;
+        }
+</style>
 
 
