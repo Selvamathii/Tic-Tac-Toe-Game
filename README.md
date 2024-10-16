@@ -6,7 +6,7 @@
 python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research.
 
 ## Tic-Tac-Toe Game
-
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/tic-tac-toe-3d-icon-download-in-png-blend-fbx-gltf-file-formats--xs-and-os-video-games-digital-game-pack-sports-icons-6491320.png?f=webp" , width=100 , height=100>
 
 ##### * Features
 <br>
@@ -34,4 +34,4 @@ This project serves as an excellent exercise for understanding loops, conditiona
 - **Python Community**    : For the wealth of resources and support available for learning and development.<br>
 - **Inspiration**         : To all the open-source projects that encouraged me to build this digital clock.<br>
 
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/tic-tac-toe-3d-icon-download-in-png-blend-fbx-gltf-file-formats--xs-and-os-video-games-digital-game-pack-sports-icons-6491320.png?f=webp">
+
